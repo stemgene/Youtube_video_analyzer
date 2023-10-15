@@ -2,5 +2,3 @@ streamlit==1.27.0
 pytube==15.0.0
 st_clickable_images==0.0.3
 requests==2.31.0
-time
-pandas
